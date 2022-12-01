@@ -4,7 +4,7 @@
 
 <h3>Чтобы просмотреть готовые страницы, используйте ссылки ниже</h3>
 
-<ul align="center">
+<ul>
   <li><a href="https://drenyash.github.io/rosital/map" target="_blank">Карта поставок</a></li>
   <li><a href="https://drenyash.github.io/rosital/advantages" target="_blank">Приемущества</a></li>
   <li><a href="https://drenyash.github.io/rosital/history" target="_blank">История</a></li>
